@@ -1,5 +1,8 @@
 # testovoe_sector_business
 
+## Github Pages
+https://donthurtme73.github.io/Post_table/
+
 ## Project setup
 ```
 npm install
